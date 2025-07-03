@@ -51,9 +51,9 @@ ChatGPT and Gemini
 ### 🌐 ติดต่อฉันได้ที่
 
 
-- 📧 Email: [Storkrath@gmail.com](mailto:Storkrath@gmail.com)
+- 📧 Email: [Storkrath@gmail.com]
 - 📱 Phone: [089-434-1792](tel:0894341792)
-- 💬 Facebook: [R'rath Waisati](https://www.facebook.com/profile.php?id=100010173184146)
+- 💬 Facebook: [R'rath Waisati](https://www.facebook.com/r.rath.waisati/)
 
 
 ---
