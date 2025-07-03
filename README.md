@@ -32,7 +32,7 @@ ChatGPT and Gemini
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radza99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+ 
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radza99&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
