@@ -69,7 +69,7 @@ ChatGPT and Gemini
 
 
 - 📧 Email: [Storkrath@gmail.com]
-- 📱 Phone: [089-434-1792](tel:0894341792)
+- 📱 Phone: [xxxxxxxxxx]
 - 💬 Facebook: [R'rath Waisati](https://www.facebook.com/r.rath.waisati/)
 
 
